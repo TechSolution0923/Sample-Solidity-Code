@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.9",
+    "loom-truffle-provider": "^0.13.0",
+    "touch-cli": "^0.0.1",
+    "truffle": "^5.8.1",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}

@@ -1,0 +1,12 @@
+{
+	"name": "touch-cli",
+	"version": "0.0.1",
+	"description": "A simple, limited implementation of the touch command",
+	"author": "Ates Goral <ates@magnetiq.com>",
+	"dependencies": {
+		"commander": "0.6.1"
+	},
+	"bin": {
+		"touch": "./bin/touch"
+	}
+} 
